@@ -1,6 +1,6 @@
 <div align="center">
 
-# **TPC 1 — Expressão Regular**
+# **TP 1 — Expressão Regular**
 
 ## **Autor**
 
@@ -10,7 +10,7 @@
 
 **Foto:**
 
-<img src="../img/me.jpeg" alt="Foto do autor" width="150"/>
+<img src="../img/me.jpeg" alt="me" width="150"/>
 
 </div>
 
